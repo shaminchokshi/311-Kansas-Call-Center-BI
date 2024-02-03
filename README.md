@@ -7,6 +7,6 @@
 <p>This also includes a Document of all inconsistencies found in the datset and also includes a document of all inferences made from the data visualizations </p>
 Moreover It has SQL Queries for the validation of the data being visualized.</p>
 <p>Find the live PowerBI Dashboard here- 
-<href>https://app.powerbi.com/groups/dfef58df-00ac-4b2a-8178-c62989cb5447/reports/68648c3a-3ed1-4b3b-9152-d7895a26a601/ReportSection?experience=power-bi</href>href></p>
+<href>https://app.powerbi.com/groups/dfef58df-00ac-4b2a-8178-c62989cb5447/reports/68648c3a-3ed1-4b3b-9152-d7895a26a601/ReportSection?experience=power-bi</href></p>
 <p>Find the live Tableau Dashboard here- 
-<href>https://prod-useast-b.online.tableau.com/#/site/neudamg7370/workbooks/1211229/views</href>href>
+<href>https://prod-useast-b.online.tableau.com/#/site/neudamg7370/workbooks/1211229/views</href>
